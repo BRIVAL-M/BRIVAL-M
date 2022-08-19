@@ -4,8 +4,8 @@
 - 🔭 Je travaille actuellement sur **"Learning Vietnamien" une application pour apprendre le vietnamien de manière ludique :p (traduction du français vers le vietnamien)**
 
 - 🌱 J'apprends actuellement **VueJs - Figma**
+<!--<h3 align="left">Connectez-vous avec moi :</h3 >-->
 
-<h3 align="left">Connectez-vous avec moi :</h3 >
 <p align="left">
 </p>
 
