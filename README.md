@@ -1,5 +1,5 @@
-<h1 align="center">Salut 👋, je suis Brival M</h1>
-<h3 align="center">Développeur Web Frontend #Créatif #Curieux #Sympathique 😃 mes passions : 🎼 🎥 📷 🎮 🚢 🌍</h3>
+<h1 align="center">Salutations 👋, je suis Brival M</h1>
+<h3 align="center">Développeur Web Frontend #Créatif #Curieux #Sympathique  😃 mes passions :   🎼 🎥 📷 🎮 🚢 🌍</h3>
 
 - 🔭 Je travaille actuellement sur **"Learning Vietnamien" une application pour apprendre le vietnamien de manière ludique :p (traduction du français vers le vietnamien)**
 
